@@ -8,6 +8,8 @@ import { db } from './src/firebaseConfig';
 
 
 
+
+
 import Chart from './src/Chart';
 
 export default function App() {
